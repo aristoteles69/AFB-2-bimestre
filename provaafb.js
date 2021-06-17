@@ -26,3 +26,19 @@ function someFn(number) {
 function calculator(n1, n2) {
   return callback => callback(n1, n2)
 }
+// Quarto Quesito
+
+
+ * 4
+ * 1
+ * 5
+ * 1
+
+}
+// Quinto Quesito
+
+function tabuada(num) {
+  for (let a = 1; a <= 10; a++) {
+    console.log(${num} X ${a} = ${num * a})
+  }
+}
